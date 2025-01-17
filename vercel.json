@@ -4,5 +4,11 @@
             "src": "/Shenzhen",
             "dest": "/Shenzhen/Shenzhen.html"
         }
+    ],
+    "builds": [
+        {
+            "src": "**/*",
+            "use": "@vercel/static"
+        }
     ]
 }

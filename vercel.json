@@ -1,10 +1,4 @@
 {
-    "routes": [
-        {
-            "src": "/Shenzhen",
-            "dest": "/Shenzhen/Shenzhen.html"
-        }
-    ],
     "builds": [
         {
             "src": "**/*",
